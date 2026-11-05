@@ -1,0 +1,17 @@
+{
+  "name": "Atelier — Your personal fitting room",
+  "short_name": "Atelier",
+  "description": "A private, browser-based virtual fitting room for your own wardrobe.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f3",
+  "theme_color": "#f7f6f3",
+  "icons": [
+    {
+      "src": "./atelier.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
